@@ -6,7 +6,7 @@
 <br>
 <div >
   <div >
-    <a href="https://app.daily.dev/TonyShaji"><img src="https://api.daily.dev/devcards/4816c53ff47348ed939c492d59ffac9a.png?r=wpx" width="400" alt="Tony Shaji's Dev Card"/></a>
+    <a href="https://app.daily.dev/tonyshaji"><img src="https://api.daily.dev/devcards/v2/9hfViMhDgT7FdvIvgeKil.png?type=default&r=tzg" width="356" alt="Tony Shaji's Dev Card"/></a>
   </div>
 </div>
 <!---
